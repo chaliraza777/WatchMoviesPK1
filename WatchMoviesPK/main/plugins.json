@@ -1,0 +1,8 @@
+{
+  "name": "WatchMoviesPK Repository",
+  "description": "CloudStream Plugin for WatchMoviesPK",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/<chaliraza777>/WatchMoviesPK/main/WatchMoviesPK.csx"
+  ]
+}
